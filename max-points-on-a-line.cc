@@ -8,6 +8,8 @@
  * };
  */
 
+// Err 3: corner cases. [], [p, p], [p, p, p], [p, p, p1, p2]
+
 #include <vector>
 #include <string>
 #include <iostream>
